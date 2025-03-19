@@ -4,6 +4,9 @@ html {
 
 body, a{
     color: var(--text-color);
+}
+
+body{
     font-family: var(--font-family-base);
 }
 
